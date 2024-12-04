@@ -107,20 +107,4 @@ sudo ufw reload
 
 ## 🎉 You're Ready to Go!  
 Your OpenLiteSpeed server is now up and running! Start hosting your web applications with a lightweight and high-performance server.  
-
----
-
-## 🤝 Contribution  
-Feel free to contribute to this guide by submitting a pull request or opening an issue.
-
----
-
-## 📜 License  
-This project is licensed under the MIT License.  
-
----
-
-## 💬 Support  
-If you encounter any issues, visit the [OpenLiteSpeed documentation](https://openlitespeed.org/) or join the community forum.  
-
-Happy hosting! 😊  
+ 
